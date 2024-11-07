@@ -1,7 +1,5 @@
 # El-septimo-reto
 
-El reto número 7 de la clase de programación y el cual resolveré en este repo consiste en:
-
 *1.* Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 
 ```python
@@ -56,10 +54,3 @@ while (A >= B): # A debe ser > ó = que B
 print(" la población superará a la población de A en: " + str(Año)) # para indicar el dato final
 ```
 
-*5.* Imprimir el factorial de un número natural n dado.
-
-*6.* Implementar un algoritmo que permita adivinar un número dado de 1 a 100, preguntando en cada caso si el número es mayor, menor o igual.
-
-*7.* Implementar un programa que ingrese un número de 2 a 50 y muestre sus divisores.
-
-*8.* Implementar el algoritmo que muestre los números primos del 1 al 100. nota: use funciones
